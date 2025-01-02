@@ -1,45 +1,52 @@
 # TibiaBotNK
+
 Tibia Pixelbot via AHK by NK
 
-*UPGRADED VERSION OF TIBIA NO DIE @sergiorosendo
-Install AutoHotkey, from https://www.autohotkey.com/.
+*UPGRADED VERSION OF TIBIA NO DIE @sergiorosendo*
 
-*RESOLUTION NEEDED: 
-1920 X 1080
+### Requirements
 
-*HOTKEYS
-F1 - SHOOTER SKILL 1 (EXORI ICO/FRIGO/FLAM/CON)
-F2 - SHOOTER SKILL 2 (EXORI ICO/FRIGO/FLAM/CON)
-F3 - SHOOTER SKILL 3 (EXORI ICO/FRIGO/FLAM/CON)
-F4 - SHOOTER SKILL 4 (EXORI ICO/FRIGO/FLAM/CON)
-F5 - SHOOTER SKILL 5 (EXORI ICO/FRIGO/FLAM/CON)
-F6 - FREE
-F7 - FREE
-F8 - FREE
-1 - HP POTION
-2 - MANA POTION
-3 - FREE
-4 - EXURA
-5 - EXURA GRAN
-6 - EXURA VITA 
-7 - FOOD - 5 MIN DEFAULT
-8 - BUFF (EX: UTITO TEMPO) - 8 SEC DEFAULT
-9 - HASTE (UTANI HUR) - 3 SEC DEFAULT
+- **Resolution needed**: 1920 x 1080
+- Install AutoHotkey from [AutoHotkey Website](https://www.autohotkey.com/).
 
-*HOW TO USE:
-1 - RUN "TibiaBotNK.ahk"
-2 - CHECK CONFIG/INTERFACE/(X) SHOW CUSOMIZABLE STATUS BAR
-3 - SET BATTLE LIST TOP/LEFT SIDE (WITH CONFIGS OPENED!)
-4 - PRESS (ON/OFF):
-"INSERT" FOR AUTO SHOOTER
-"HOME" FOR AUTO BUFF
-"PAGE UP" FOR AUTO FOOD
-"DELETE" FOR AUTO LOOT
-"END" FOR AUTO TARGET
-"PAGE DOWN" FOR AUTO HASTE
-5 - BE FUN!
+### Hotkeys
 
-*PRESS PAUSE BREAK MULTIPLE TIMES TO CLOSE SCRIPT PROCESSES
+- `F1` - Shooter Skill 1 (EXORI ICO/FRIGO/FLAM/CON)
+- `F2` - Shooter Skill 2 (EXORI ICO/FRIGO/FLAM/CON)
+- `F3` - Shooter Skill 3 (EXORI ICO/FRIGO/FLAM/CON)
+- `F4` - Shooter Skill 4 (EXORI ICO/FRIGO/FLAM/CON)
+- `F5` - Shooter Skill 5 (EXORI ICO/FRIGO/FLAM/CON)
+- `F6` - Free
+- `F7` - Free
+- `F8` - Free
+- `1` - HP Potion
+- `2` - Mana Potion
+- `3` - Free
+- `4` - EXURA
+- `5` - EXURA GRAN
+- `6` - EXURA VITA
+- `7` - Food (5 min default)
+- `8` - Buff (e.g., UTITO TEMPO) (8 sec default)
+- `9` - Haste (UTANI HUR) (3 sec default)
 
+### How to Use
+
+1. Run `TibiaBotNK.ahk`.
+2. Go to the game's settings: Check **Config -> Interface -> Show Customizable Status Bar**.
+3. Set the **Battle List** to the **top-left** side of the screen (with the configs opened).
+4. Press the following keys to toggle features on/off:
+   - `INSERT` for Auto Shooter
+   - `HOME` for Auto Buff
+   - `PAGE UP` for Auto Food
+   - `DELETE` for Auto Loot
+   - `END` for Auto Target
+   - `PAGE DOWN` for Auto Haste
+5. Have fun!
+
+### Other Commands
+
+- Press `PAUSE BREAK` multiple times to close all script processes.
+
+---
 
 @jnowsk @novoolimpo
